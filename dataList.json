@@ -1,0 +1,56 @@
+{
+	"Bruhathkayosaurus": {
+		"Appeared": -70000000,
+		"Height": 25,
+		"Length": 44,
+		"Order": "saurischia",
+		"Vanished": -70000000,
+		"Weight": 135000,
+		"Source":"./images/seven.jpg"
+	},
+	"Lambeosaurus": {
+		"Appeared": -76000000,
+		"Height": 2.1,
+		"Length": 12.5,
+		"Order": "ornithischia",
+		"Vanished": -75000000,
+		"Weight": 5000,
+		"Source":"./images/two.jpg"
+	},
+	"Linhenykus": {
+		"Appeared": -85000000,
+		"Height": 0.6,
+		"Length": 1,
+		"Order": "theropoda",
+		"Vanished": -75000000,
+		"Weight": 3,
+		"Source":"./images/three.jpg"
+	},
+	"Pterodactyl": {
+		"Appeared": -150000000,
+		"Height": 0.6,
+		"Length": 0.8,
+		"Order": "pterosauria",
+		"Vanished": -148500000,
+		"Weight": 2,
+		"Source":"./images/four.jpg"
+	},
+	"Stegosaurus": {
+		"Appeared": -155000000,
+		"Height": 4,
+		"Length": 9,
+		"Order": "ornithischia",
+		"Vanished": -15000000,
+		"Weight": 2500,
+		"Source":"./images/five.jpg"
+	},
+	"Triceratops": {
+		"Appeared": -68000000,
+		"Height": 3,
+		"Length": 8,
+		"Order": "ornithischia",
+		"Vanished": -66000000,
+		"Weight": 11000,
+		"Source":"./images/six.jpg"
+	}
+}

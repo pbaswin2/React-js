@@ -1,0 +1,44 @@
+.headerStyle
+{
+	background-color:#331a00;
+	color:#efebe8;
+	padding: 20px 0px;
+	margin: 0px;
+	max-width: 100%;
+}
+.no-pad
+{
+	padding: 0px;
+	margin: 0px;
+	max-width: 100%;
+}
+.index{
+	background-color:  #4d2600;
+	color:#efebe8;
+	border-top: 1px  solid #eee;
+	font-weight: bold;
+	cursor: pointer;
+	font-style: italic;
+}
+.hover:hover
+{
+	font-size: 22px;
+}
+.fonts
+{
+	font-style: italic;
+	font-weight: bolder;
+}
+.index:first-child{
+	background-color: #b35900;
+}
+
+.contentStyle
+{
+	margin-top: 3vh;
+}
+
+.capitalize
+{
+	text-transform: capitalize;
+}
